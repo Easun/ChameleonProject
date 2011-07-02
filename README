@@ -3,13 +3,20 @@
 Copyright (C) ChamaleonProject  (http://twitter.com/#!/@ChameleonGeek)
 Copyright (C) SiennaCore      	(http://www.siennacore.com)
 
-  ChamaleonProject is free software; you can redistribute it and/or modify
-  it under the terms of the GNU General Public License as published by
-  the Free Software Foundation; either version 2 of the License, or
-  (at your option) any later version.
+= ChamaleonProject -- Warning =
+
+Estamos trabajando en otra base y otra encriptacion para el servidor.
+No se creara otro branch para esto, todo estara en el branch principal.
+Todos los errores porfavor notificarlos rapidamente.
+
+===============================
 
 ChamaleonProject is a Rift game server emulator. It is derived
 from SiennaCore and is based on the code of that project.
+
+Updates in the downloads:
+ChameleonWeb_23_06_2011 RevBeta_1.zip
+ChameleonDB_19_06_2011 RevBeta_1.zip
 
 SQL files and WEB files can be found in the downloads of GitHub Repo. Files
 to update your database from an older revision/version can be found in the
