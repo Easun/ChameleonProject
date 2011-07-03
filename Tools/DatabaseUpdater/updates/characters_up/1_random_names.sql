@@ -1,3 +1,10 @@
+DROP TABLE IF EXISTS `randomnames`;
+CREATE TABLE `randomnames` (
+  `RandomNames_ID` varchar(255) NOT NULL,
+  `Name` int(20) NOT NULL,
+  PRIMARY KEY (`RandomNames_ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
 INSERT INTO `randomnames` (`RandomNames_ID`, `Name`)VALUES
 ('1', 'Aarne'),
 ('2', 'Abani'),
